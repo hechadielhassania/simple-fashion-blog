@@ -1,0 +1,17 @@
+[
+    { 
+        "index":0,
+        "date": "11/12/20", 
+        "title": "On the street in Brooklyn",
+        "img": "blog-image-1.jpg",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec eros non ante fringilla rhoncus. Phasellus non felis ac risus ultrices vehicula vel vel lorem. Integer vitae justo vel eros tincidunt convallis eget eget lacus. Fusce ut eros auctor, consequat odio nec, aliquam est. Maecenas dapibus nisi et lectus efficitur lacinia. Nullam auctor nec turpis ac fermentum. Morbi eleifend ligula non justo scelerisque, quis tincidunt lorem fermentum. Mauris nec dolor eu metus fringilla interdum. Vivamus feugiat est ut nisi feugiat, vel ultricies nisl tempor. Cras condimentum metus id ante sollicitudin ultrices. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis vitae leo in arcu sodales lacinia ut sed nunc. Mauris vitae ex ac arcu interdum tincidunt." 
+    },
+    { 
+        "index": 1,
+        "date": "11/11/20", 
+        "title": "Vintage in Vogue",
+        "img": "blog-image-1.jpg",
+        "content": " Fusce ut eros auctor, consequat odio nec, aliquam est. Maecenas dapibus nisi et lectus efficitur lacinia. Nullam auctor nec turpis ac fermentum. Morbi eleifend ligula non justo scelerisque, quis tincidunt lorem fermentum. Mauris nec dolor eu metus fringilla interdum. Vivamus feugiat est ut nisi feugiat, vel ultricies nisl tempor. Cras condimentum metus id ante sollicitudin ultrices. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis vitae leo in arcu sodales lacinia ut sed nunc. Mauris vitae ex ac arcu interdum tincidunt." 
+    }
+]
+  
