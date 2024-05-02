@@ -9,16 +9,21 @@
 .logo h1{
   color: red;
   margin: 0;
+  font-size: 60px;
+  font-weight: 400;
 }
 .logo h5{
   color: #333;
+  font-weight: 400;
+  font-size: 25px;
   margin: 0;
 }
 .nav ul{
   display: flex;
   list-style: none;
   justify-content: flex-start;
-  padding: 0;
+  padding: 20px 0;
+  margin-top: 20px;
 }
 .nav ul li{
   padding: 0 20px 0 0;
@@ -47,7 +52,7 @@
 
 /* Post style */
 .post{
-  padding: 15px 0;
+  padding: 40px 0 50px;
   border-bottom: 2px solid #eee;
   margin-bottom: 25px;
 }
@@ -67,6 +72,14 @@
 .post p{
   text-align: justify;
   line-height: 25px;
+  color: #444;
+}
+.post p::first-letter{
+  font-size: 100px;
+            display: block;
+            float: left;
+            line-height: 0.5;
+            margin: 15px 15px 10px 0;
 }
 .post a{
   display: flex;
